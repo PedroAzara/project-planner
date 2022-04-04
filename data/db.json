@@ -1,0 +1,28 @@
+{
+  "projects": [
+    {
+      "id": 1,
+      "title": "Create new homepage Yes",
+      "details": "Lorem Ipsum",
+      "complete": true
+    },
+    {
+      "id": 2,
+      "title": "Create new homepage",
+      "details": "Lorem Ipsum",
+      "complete": false
+    },
+    {
+      "title": "Learn coding",
+      "details": "Learn coding until 4PM\n",
+      "complete": false,
+      "id": 3
+    },
+    {
+      "title": "ASDASD",
+      "details": "DASD",
+      "complete": false,
+      "id": 4
+    }
+  ]
+}
